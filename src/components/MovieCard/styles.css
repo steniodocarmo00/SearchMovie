@@ -1,0 +1,30 @@
+.card-movie {
+    display: inline-flex;
+    height: 300px;
+    width: 1151.58px;
+}
+
+.card-info{
+    text-align: left;
+    width: 887.59px;
+    max-width: 887.59px;
+}
+
+.atores {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+ 
+.rating {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.rating p{
+    font-size: 20px;
+}
+.poster{
+    display: inline-block;
+}
+
