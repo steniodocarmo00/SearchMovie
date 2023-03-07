@@ -18,8 +18,8 @@ export function Input(props){
     return(
         <form className="form-container">
             <input value={searchMovie} onChange={newVar} className="form-input" type="text" placeholder="Pesquisar Filme"></input>
-            <button className="form-search" onClick={movieResult}>Pesquisar</button>
-            <button className="form-reset">Resetar</button>
+            <button className="form-search" onClick={movieResult}>Search</button>
+            <button className="form-reset">Reset</button>
         </form>
     )
 }

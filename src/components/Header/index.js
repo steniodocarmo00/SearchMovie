@@ -7,10 +7,10 @@ export function Title() {
       </div>
       <hr/>
       <div className="title">
-        <h1>Pesquisa de Filmes</h1>
+        <h1>Search Movies</h1>
           <div className="paragraph">
             <p>
-              Pesquise seu filme favorito na barra de pesquisa abaixo.
+              Search your favorite movie below:
             </p>
           </div>
       </div>
